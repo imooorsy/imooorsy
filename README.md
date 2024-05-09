@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Morsy</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 
-<p align="left"> <a href="https://twitter.com/imooorsy" target="blank"><img src="https://img.shields.io/twitter/follow/imooorsy?logo=twitter&style=for-the-badge" alt="imooorsy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IMoorsy" target="blank"><img src="https://img.shields.io/twitter/follow/imooorsy?logo=twitter&style=for-the-badge" alt="imooorsy" /></a> </p>
 
 - 🔭 I’m currently working on **Doctor line**
 
